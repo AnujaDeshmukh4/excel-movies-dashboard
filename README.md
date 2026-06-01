@@ -97,3 +97,4 @@ Revenue & Profit Insights
 
 
 DASHBOARD PREVIEW
+![Snapshot](Snapshot-1.png)
